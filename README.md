@@ -1,8 +1,8 @@
 # LS3DRF.dll — source port
 
-> The source is [readher/LS3DRF](https://github.com/readher/LS3DRF). The `ls3drf/` folder of
-> [HD2_SabreSquadron](https://github.com/RellHaiser/HD2_SabreSquadron) is a `git subtree` of it:
-> make changes in readher/LS3DRF, not in the folder.
+> **This repository is archived. Work continues in the `ls3drf/` folder of RellHaiser's
+> [HD2_SabreSquadron](https://github.com/RellHaiser/HD2_SabreSquadron/tree/main/ls3drf).**
+> The commits here are part of that folder's history. The builds on this repository's Releases page stay available.
 
 Clean C++17 rewrite of `LS3DRF.dll`, the build of the LS3D engine (version 5.59.5, build of
 16 August 2004) that the Hidden & Dangerous 2 / Sabre Squadron dedicated server
